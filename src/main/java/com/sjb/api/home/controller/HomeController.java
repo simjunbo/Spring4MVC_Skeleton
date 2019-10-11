@@ -1,4 +1,4 @@
-package com.sjb.api.home;
+package com.sjb.api.home.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
